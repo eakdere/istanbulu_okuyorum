@@ -1,8 +1,6 @@
-Beyoğlu çocuk tarihi haritası
+İstanbulu Okuyorum Projesi
 
 
-
-made with maptimeLA's base code
 
 
 
